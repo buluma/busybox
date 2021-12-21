@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM busybox:latest
 LABEL maintainer="Michael Buluma"
 
 VOLUME ["/sys/fs/cgroup"]
