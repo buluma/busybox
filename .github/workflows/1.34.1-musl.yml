@@ -1,5 +1,5 @@
 ---
-name: busybox 1.34-musl, latest 
+name: busybox 1.34-musl, musl 
 
 on:
   pull_request:
