@@ -25,7 +25,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Test building image.
-        run: uclibc && docker build -t uclibc .
+        run: cd uclibc && docker build -t uclibc .
 
       - name: Run the built image.
         run: docker run --name test-container -d --privileged -v /sys/fs/cgroup:/sys/fs/cgroup:ro uclibc
