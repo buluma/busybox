@@ -1,5 +1,5 @@
 ---
-name: busybox 1.34-uclibc, uclibc 
+name: busybox, uclibc 
 
 on:
   pull_request:
