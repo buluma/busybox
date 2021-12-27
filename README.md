@@ -1,5 +1,7 @@
 # Busybox base images
 
+[![busybox latest](https://github.com/buluma/busybox/actions/workflows/build-1.34.yml/badge.svg?branch=main)](https://github.com/buluma/busybox/actions/workflows/build-1.34.yml) [![busybox 1.34-glibc, glibc](https://github.com/buluma/busybox/actions/workflows/1.34.1-glibc.yml/badge.svg?branch=main)](https://github.com/buluma/busybox/actions/workflows/1.34.1-glibc.yml) [![busybox 1.34-musl, musl](https://github.com/buluma/busybox/actions/workflows/1.34.1-musl.yml/badge.svg?branch=main)](https://github.com/buluma/busybox/actions/workflows/1.34.1-musl.yml) [![busybox 1.34-uclibc, uclibc](https://github.com/buluma/busybox/actions/workflows/1.34.1-uclibc.yml/badge.svg?branch=main)](https://github.com/buluma/busybox/actions/workflows/1.34.1-uclibc.yml)
+
 ## Quick reference
 
     Maintained by: the Docker Community
